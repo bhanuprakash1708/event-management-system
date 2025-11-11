@@ -44,7 +44,6 @@ It leverages machine learning, computer vision, and IoT sensor data to enhance s
 | **Data Processing** | pandas, numpy, Apache Kafka (streaming) |
 | **Database** | PostgreSQL + TimescaleDB (time-series) |
 | **Frontend** | React.js + WebSocket (real-time updates) |
-| **Deployment** | Docker + Kubernetes (orchestration) |
 
 ---
 
