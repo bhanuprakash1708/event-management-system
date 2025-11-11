@@ -14,7 +14,6 @@ It leverages machine learning, computer vision, and IoT sensor data to enhance s
 ## ⚙️ Features
 
 ### 🩺 Emergency Detection & Classification
-- **Medical Emergency Detection** – Detect medical incidents from crowd behavior, sensor data, and reports  
 - **Fire Outbreak Detection** – Early fire detection using computer vision and sensor fusion  
 - **Security Threat Assessment** – Behavioral analysis and anomaly detection for potential threats  
 
